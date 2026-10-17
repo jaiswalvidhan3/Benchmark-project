@@ -13,7 +13,7 @@ This project checks how the NumPy dtype changes memory usage, speed and precisio
 5. Plots memory and time bar charts and gives recommendations
 
 ## How to run
-1. Open `Project4_Dtype_Lab.ipynb` in Google Colab
+1. Open `Project4 Benchmark.ipynb` in Google Colab
 2. Click Runtime > Run all
 
 Libraries used: numpy, matplotlib (both already installed on Colab).
